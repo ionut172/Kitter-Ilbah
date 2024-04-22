@@ -1,0 +1,3 @@
+[submodule "kitter"]
+    path = kitter
+    url = https://github.com/ionut172/kitter.git
